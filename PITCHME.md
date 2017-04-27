@@ -1,7 +1,7 @@
 ---
 <!-- .slide: data-autoslide="10000" -->
 
-![LOGO](https://d1z75bzl1vljy2.cloudfront.net/img/gp-logo.png)
+![LOGO](https://www.reisystems.com/wp-content/uploads/2016/12/logo.png)
 
 #### Get the word out
 <br>
@@ -15,7 +15,7 @@
 
 ### GitPitch turns <span style="color: #e49436; text-transform: none">PITCHME.md</span> into interactive, online slideshows.
 <br>
-<span style="color:gray; font-size:0.6em;">[ JUST LIKE THIS ONE ]</span>
+<span style="color:gray; font-size:0.6em;">[ JUST LIKE THIS ONE created by YATIN]</span>
 
 ---
 <!-- .slide: data-autoslide="2000" -->
